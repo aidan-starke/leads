@@ -27,17 +27,16 @@
   },
   "jest": {},
   "dependencies": {
+    "antd": "^4.16.13",
+    "axios": "^0.23.0",
     "cors": "^2.8.5",
     "dotenv": "^9.0.0",
     "express": "^4.17.1",
     "knex": "^0.21.5",
     "npm-run-all": "^4.1.5",
     "pg": "^8.3.3",
-    "react-bootstrap": "^1.4.0",
     "react-redux": "^7.2.1",
-    "redux": "^4.0.5",
-    "superagent": "^6.1.0",
-    "webpack": "^4.44.1"
+    "webpack": "^5.59.1"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
@@ -49,14 +48,13 @@
     "@testing-library/react": "^11.0.2",
     "babel-jest": "^26.3.0",
     "babel-loader": "^8.1.0",
-    "jest": "^26.4.2",
-    "nock": "^13.0.4",
+    "css-loader": "^6.4.0",
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "sqlite3": "^5.0.0",
-    "supertest": "^4.0.2",
-    "webpack-cli": "^3.3.12",
+    "sqlite3": "^5.0.2",
+    "style-loader": "^3.3.1",
+    "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^3.11.0"
   }
 }
